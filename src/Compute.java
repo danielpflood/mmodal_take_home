@@ -60,7 +60,7 @@ public class Compute {
 			if(k!=Results.size()-1)
 				System.out.print(format.format(Results.get(k))+",");
 			else
-				System.out.print(format.format(Results.get(k))+"]");
+				System.out.println(format.format(Results.get(k))+"]");
 		}
 	}
 	

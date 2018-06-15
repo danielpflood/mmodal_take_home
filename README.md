@@ -10,7 +10,7 @@
 
 ### To run the program please navigate to the folder containing Compute.java and Compute.class and run (Example) ->
 
-> ```java Commute 3 0 1 2 3 4```  
+> ```java Compute 3 0 1 2 3 4```  
 > This example was taken from the problem description.
 
 ### If you need to recompile please run ->
